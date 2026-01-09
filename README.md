@@ -1,16 +1,28 @@
-## Hi there 👋
+## Pablo Gallegos Noreña
 
-<!--
-**gaschgithub/gaschgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Music Technology Researcher · Audio Engineer
 
-Here are some ideas to get you started:
+I work at the intersection of music, computation, and perception, with a focus on rhythm, timing, and symbolic and audio-based analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+- Sound and Music Computing
+- Microrhythm analysis and timing
+- Symbolic music processing (MIDI)
+- Music Information Retrieval
+- Algorithmic and generative sound systems
+
+### Tools & technologies
+- Python (NumPy, pandas, matplotlib)
+- MIDI data processing
+- REAPER (Lua scripting and automation)
+- SuperCollider (sclang)
+- Sonic Visualiser
+- Audacity
+- Git
+
+### Background
+Bachelor’s degree in Music and Artistic Technology (UNAM).  
+Experience in music production, audiobook editing, film sound, and game audio, with a strong interest in applying computational methods within real musical and audio practices.
+
+📫 **Contact:** pablogn995@gmail.com  
+🎧 **Music project:** https://open.spotify.com/artist/6bPslgqL7VcuMJT30beMGM
