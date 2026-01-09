@@ -1,8 +1,8 @@
 ## Pablo Gallegos Noreña
 
-Music Technology Researcher · Audio Engineer
+Music Technology Researcher · Audio Specialist
 
-I work at the intersection of music, computation, and perception, with a focus on rhythm, timing, and symbolic and audio-based analysis.
+I work at the intersection of music, computation, and perception, with a focus on rhythm, timing, and algorithmic sound systems.
 
 ### Research interests
 - Sound and Music Computing
@@ -11,7 +11,7 @@ I work at the intersection of music, computation, and perception, with a focus o
 - Music Information Retrieval
 - Algorithmic and generative sound systems
 
-### Tools & technologies
+### Tools
 - Python (NumPy, pandas, matplotlib)
 - MIDI data processing
 - REAPER (Lua scripting and automation)
@@ -21,8 +21,8 @@ I work at the intersection of music, computation, and perception, with a focus o
 - Git
 
 ### Background
-Bachelor’s degree in Music and Artistic Technology (UNAM).  
-Experience in music production, audiobook editing, film sound, and game audio, with a strong interest in applying computational methods within real musical and audio practices.
+Bachelor’s degree in Music and Artistic Technology, specialized in Applied Music Technology Management (UNAM).  
+Experience in music production, audiobook editing, film sound, and game audio, with a strong interest in applying computational methods within real music and audio practices.
 
 📫 **Contact:** pablogn995@gmail.com  
 🎧 **Music project:** https://open.spotify.com/artist/6bPslgqL7VcuMJT30beMGM
