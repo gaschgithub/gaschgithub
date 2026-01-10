@@ -5,7 +5,6 @@ Music Technology Researcher · Audio Specialist
 I work at the intersection of music, computation, and perception, with a focus on rhythm, timing, and algorithmic sound systems.
 
 ### Research interests
-- Sound and Music Computing
 - Microrhythm analysis and timing
 - Symbolic music processing (MIDI)
 - Music Information Retrieval
