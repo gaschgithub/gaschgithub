@@ -12,6 +12,7 @@ I work at the intersection of music, computation, and perception, with a focus o
 
 ### Tools
 - Python (NumPy, pandas, matplotlib)
+- Essentia
 - MIDI data processing
 - REAPER (Lua scripting and automation)
 - SuperCollider (sclang)
