@@ -5,10 +5,12 @@ Music Technology Researcher · Audio Specialist
 I work at the intersection of music, computation, and perception, with a focus on rhythm, timing, and algorithmic sound systems.
 
 ### Research interests
-- Microrhythm analysis and timing
-- Symbolic music processing (MIDI)
-- Music Information Retrieval
 - Algorithmic and generative sound systems
+- Digital Signal Processing
+- Machine Learning
+- Microrhythm analysis and timing
+- Music Information Retrieval
+- Symbolic music processing (MIDI)
 
 ### Tools
 - Python (NumPy, pandas, matplotlib)
